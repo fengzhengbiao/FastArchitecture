@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Architecture</string>
+    <string name="error_tips">Some error happend</string>
+</resources>

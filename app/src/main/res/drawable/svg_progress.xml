@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportHeight="70"
+    android:viewportWidth="70">
+    <path
+        android:name="star_1"
+        android:fillColor="#FED530"
+        android:pathData="M0,0 L0,70 1,70 1,0" />
+
+    <path
+        android:name="star_1"
+        android:fillColor="#FED530"
+        android:pathData="M0,0 L70,0 70,1 0,1" />
+
+</vector>
